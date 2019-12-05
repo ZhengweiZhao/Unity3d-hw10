@@ -309,13 +309,15 @@ public class Bullet : MonoBehaviour {
 }
 
 ```
-然后工厂类就是生产和回收上述角色，这个在前面我们经常用到。场景类就是一个实例化的过程，进行初始化和实现UI类的操作。UI类主要是和用户的交互，检测玩家输入和输出游戏结果等。因为在之前的作业中这些都已经涉及到过了，所以这里就不再代码分析啦，详情看GitHub上的代码吧。
+然后工厂类就是生产和回收上述角色，这个在前面我们经常用到。场景类就是一个实例化的过程，进行初始化和实现UI类的操作。UI类主要是和用户的交互，检测玩家输入和输出游戏结果
+等。因为在之前的作业中这些都已经涉及到过了，所以这里就不再代码分析啦，详情看GitHub上的代码吧。
 
 ## 游戏界面效果
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191205185955987.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDM3NzY5MQ==,size_16,color_FFFFFF,t_70)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191205190026117.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDM3NzY5MQ==,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/2019120519004624.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDM3NzY5MQ==,size_16,color_FFFFFF,t_70)
-
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20191205190026117.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDM3NzY5MQ==,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2019120519004624.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDM3NzY5MQ==,size_16,color_FFFFFF,t_70)
 
 - 最后
+
 [视频链接](https://pan.baidu.com/s/1BCr9AJ_EEf_fgMw5OAIhAQ)
 
