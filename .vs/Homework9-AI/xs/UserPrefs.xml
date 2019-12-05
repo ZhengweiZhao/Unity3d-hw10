@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{0C7B2F82-EEB3-A541-64C5-DFF1EBB1A78B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/Scripts/Player.cs">
+    <Files>
+      <File FileName="Assets/Resources/Scripts/Bullet.cs" Line="24" Column="24" />
+      <File FileName="Assets/Resources/Scripts/Tank.cs" />
+      <File FileName="Assets/Resources/Scripts/Player.cs" Line="38" Column="2" />
+      <File FileName="Assets/Resources/Scripts/Enemy.cs" />
+      <File FileName="Assets/Resources/Scripts/MyFactory.cs" />
+      <File FileName="Assets/Resources/Scripts/SceneController.cs" Line="76" Column="1" />
+      <File FileName="Assets/Resources/Scripts/IUserGUI.cs" />
+      <File FileName="Assets/Resources/Scripts/IUserAction.cs" />
+      <File FileName="Assets/Resources/Scripts/GameDirector.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework9-AI" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Player.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7eb25843-95c1-41f4-a4a2-457def018996" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
